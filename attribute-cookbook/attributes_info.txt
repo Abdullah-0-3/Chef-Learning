@@ -1,0 +1,5 @@
+Attribute is a key-value pair:
+HOSTNAME: centosstream9
+IPADDRESS: 192.168.18.232
+MEMORY: 1816484kB
+CPU: 
