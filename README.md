@@ -1,1 +1,1 @@
-# Chef-Learning
+# Chef Learning Practices
